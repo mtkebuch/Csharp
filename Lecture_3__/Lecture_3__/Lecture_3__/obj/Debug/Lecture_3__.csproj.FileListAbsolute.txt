@@ -1,0 +1,14 @@
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\bin\Debug\Lecture_3__.exe.config
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\bin\Debug\Lecture_3__.exe
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\bin\Debug\Lecture_3__.pdb
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\obj\Debug\Lecture_3__.csproj.AssemblyReference.cache
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\obj\Debug\Lecture_3__.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\obj\Debug\Lecture_3__.Form1.resources
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\obj\Debug\Lecture_3__.Properties.Resources.resources
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\obj\Debug\Lecture_3__.csproj.GenerateResource.cache
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\obj\Debug\Lecture_3__.csproj.CoreCompileInputs.cache
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\obj\Debug\Lecture_3__.csproj.CopyComplete
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\obj\Debug\Lecture_3__.exe
+C:\Users\lab321student09\Desktop\GiorgiPoladauri\C#\Lecture_3__\Lecture_3__\obj\Debug\Lecture_3__.pdb
