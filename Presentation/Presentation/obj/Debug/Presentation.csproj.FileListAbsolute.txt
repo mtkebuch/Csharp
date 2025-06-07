@@ -1,0 +1,13 @@
+C:\Users\mtkeb\source\repos\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\mtkeb\source\repos\Presentation\obj\Debug\Presentation.MainForm.resources
+C:\Users\mtkeb\source\repos\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\mtkeb\source\repos\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\mtkeb\source\repos\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\mtkeb\source\repos\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\mtkeb\source\repos\Presentation\bin\Debug\Presentation.exe
+C:\Users\mtkeb\source\repos\Presentation\bin\Debug\Presentation.pdb
+C:\Users\mtkeb\source\repos\Presentation\bin\Debug\System.Data.SqlClient.dll
+C:\Users\mtkeb\source\repos\Presentation\bin\Debug\System.Data.SqlClient.xml
+C:\Users\mtkeb\source\repos\Presentation\obj\Debug\Presenta.BC777DBE.Up2Date
+C:\Users\mtkeb\source\repos\Presentation\obj\Debug\Presentation.exe
+C:\Users\mtkeb\source\repos\Presentation\obj\Debug\Presentation.pdb
